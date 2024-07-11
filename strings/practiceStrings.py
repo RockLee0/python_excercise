@@ -1,5 +1,5 @@
 #1. address, city ,country
-'''street=input('enter street ')
+street=input('enter street ')
 city=input('enter city')
 country=input('enter country')
 
@@ -8,7 +8,7 @@ address2=f"{street} \n{city} \n{country}"
 
 print(address1)
 print(address2)
-'''
+
 #2. slicing
 
 fact="Earth revolves around the sun"
@@ -22,7 +22,12 @@ vegi=int(input())
 
 print(f"i eat {fruits} fruits and {vegi} vegitables")
 
-#4.
+#4. replace a certain part of a string
 
 s = 'maine 200 banana khaye'
+s=s.replace('200','10')
+s=s.replace('banana','samosa')
+print(s)
+s=s.replace('200','10').replace('samosa','idli')
+print(s)
 
