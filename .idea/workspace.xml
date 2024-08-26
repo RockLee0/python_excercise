@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="for done">
-      <change afterPath="$PROJECT_DIR$/practice class and object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read and write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data sturcture/arrayDS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice class and object.py" beforeDir="false" afterPath="$PROJECT_DIR$/class and object/practice class and object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read and write.py" beforeDir="false" afterPath="$PROJECT_DIR$/read and write/read and write.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.1.executor": "Run",
+    "Python.arrayDS.executor": "Run",
     "Python.dict_touple practice.executor": "Run",
     "Python.functionProblems.executor": "Run",
     "Python.practice class and object.executor": "Run",
@@ -64,6 +66,12 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\python_excercise\read and write" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\python_excercise\class and object" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -152,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721156207807</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="for done">
+      <option name="closed" value="true" />
+      <created>1724631619442</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724631619442</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
