@@ -14,3 +14,10 @@ for line in f_r:
     tokens=line.split(' ')
     print("wordcount:",len(tokens),line)
 f_r.close()
+
+with open("C://py/read.txt",'r') as fn:
+    tokens=[]
+    for line in fn:
+        tokens.append( line.split(':'))
+        print(tokens)
+
