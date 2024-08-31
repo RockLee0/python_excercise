@@ -58,6 +58,8 @@ def hash(key):
 
 dict={}
 for item in arr:
-    print(item,':',hash(item))
-    idx=hash(item)
-    print(idx)
+    if item not in dict:
+        dict[item]=1
+    else:
+        dict[item]+=1
+print(dict)
