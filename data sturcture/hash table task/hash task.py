@@ -63,3 +63,4 @@ for item in arr:
     else:
         dict[item]+=1
 print(dict)
+
