@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="third problem solved">
-      <change afterPath="$PROJECT_DIR$/data sturcture/stack/stack-practice.py" afterDir="false" />
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="STACK TASK 1 SOLVED">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data sturcture/stack/stack-practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/data sturcture/stack/stack-practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727083387328</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="STACK TASK 1 SOLVED">
+      <option name="closed" value="true" />
+      <created>1727309774255</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727309774255</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +344,7 @@
     <MESSAGE value="hash task 1 and 2 done" />
     <MESSAGE value="loop updated" />
     <MESSAGE value="third problem solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="third problem solved" />
+    <MESSAGE value="STACK TASK 1 SOLVED" />
+    <option name="LAST_COMMIT_MESSAGE" value="STACK TASK 1 SOLVED" />
   </component>
 </project>
