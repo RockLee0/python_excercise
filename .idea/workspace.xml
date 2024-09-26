@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="STACK TASK 2 SOLVED">
-      <change afterPath="$PROJECT_DIR$/data sturcture/Queue/Queue-practice.py" afterDir="false" />
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="Queue comprehanded properly">
+      <change afterPath="$PROJECT_DIR$/multithreading/multithreading-practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.hash practice.executor": "Run",
     "Python.hash task.executor": "Run",
     "Python.linkedListPractice.executor": "Run",
+    "Python.multithreading-practice.executor": "Run",
     "Python.practice class and object.executor": "Run",
     "Python.practice for.executor": "Run",
     "Python.practice if problems.executor": "Run",
@@ -313,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727312612002</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Queue comprehanded properly">
+      <option name="closed" value="true" />
+      <created>1727372326799</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727372326799</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,6 +364,7 @@
     <MESSAGE value="third problem solved" />
     <MESSAGE value="STACK TASK 1 SOLVED" />
     <MESSAGE value="STACK TASK 2 SOLVED" />
-    <option name="LAST_COMMIT_MESSAGE" value="STACK TASK 2 SOLVED" />
+    <MESSAGE value="Queue comprehanded properly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue comprehanded properly" />
   </component>
 </project>
