@@ -3,14 +3,31 @@ class TreeNode:
         self.data=data
         self.child=[]
         self.parent=None
+
+
+
+# there is a bug in get_level() ....fix it later ----------
+    def get_level(self):
+        level = 0
+        p = self.parent
+        while p:
+            level += 1
+            p = p.parent
+
+        return level
+
+#-----------------------------------------------------------
+
+
+    def print_tree(self):
+        print(self.data)
+        if self.child:
+            for children in self.child:
+                children.print_tree()
+
     def add_child(self,child):
         self.child.append(child)
-        self.child=self
-    def print(self):
-        print(self.data)
-        for eachChild in self.child:
-            print(eachChild.data)
-
+        self.parent=self
 
 def print_electronics():
     root = TreeNode('Electronics')
@@ -33,9 +50,11 @@ def print_electronics():
     root.add_child(televisions)
     root.add_child(cellphones)
 
-    return root.print()
+    return root
 
-print_electronics()
 
+if __name__=='__main__':
+    root=print_electronics()
+    root.print_tree()
 
 
