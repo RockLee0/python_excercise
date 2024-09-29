@@ -1,8 +1,8 @@
 class TreeNode:
     def __init__(self,data):
-        self.data=data
-        self.child=[]
-        self.parent=None
+        self.data =  data
+        self.child = []
+        self.parent = None
 
 
 
@@ -20,7 +20,8 @@ class TreeNode:
 
 
     def print_tree(self):
-        print(self.data)
+        spaces =' ' * 3
+        print(spaces+self.data)
         if self.child:
             for children in self.child:
                 children.print_tree()
