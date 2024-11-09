@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="binary tree">
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="in order traversal implimented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data sturcture/Tree/Binary Tree/binarytree practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/data sturcture/Tree/Binary Tree/binarytree practice.py" afterDir="false" />
     </list>
@@ -413,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728321577153</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="in order traversal implimented">
+      <option name="closed" value="true" />
+      <created>1731183208443</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1731183208443</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,6 +472,7 @@
     <MESSAGE value="company organization done" />
     <MESSAGE value="coutrywork" />
     <MESSAGE value="binary tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary tree" />
+    <MESSAGE value="in order traversal implimented" />
+    <option name="LAST_COMMIT_MESSAGE" value="in order traversal implimented" />
   </component>
 </project>
