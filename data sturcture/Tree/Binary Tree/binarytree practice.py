@@ -26,6 +26,20 @@ class  BinarySearchTreeNode:
         if self.right:
             elements+=self.right.in_order_traversal()
         return elements
+
+    def search(self,val):
+        if self.data==val:
+            return True
+        if val<self.data:
+            if self.left:
+                return  self.left.search(val)
+            else:
+                return False
+        if val>self.data:
+            if self.right:
+                return (self.right.search(val))
+            else:
+                return False
 def build_tree(elements):
     root=BinarySearchTreeNode(elements[0])
     for i in range(1,len(elements)):
@@ -36,6 +50,7 @@ if __name__=='__main__':
     numbers=[1,8,2,4,9,3,4,7]
     number_tree=build_tree(numbers)
     print(number_tree.in_order_traversal())
+    print(number_tree.search(7))
 
 
 
