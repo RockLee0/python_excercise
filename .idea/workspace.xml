@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="deletion through max value">
-      <change afterPath="$PROJECT_DIR$/data sturcture/Graph/creating a graph.py" afterDir="false" />
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="build paths">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data sturcture/Graph/creating a graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/data sturcture/Graph/creating a graph.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,37 +44,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Queue-practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrayDS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.binarytree practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_touple practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functionProblems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gt-practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gt-task-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gt-task-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hash collusion handle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hash practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hash task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linkedListPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multithreading-practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice class and object.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice if problems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practiceLIst.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practiceNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practiceStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practiceVariables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read and write again.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read and write.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stack-practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1.executor": "Run",
+    "Python.Queue-practice.executor": "Run",
+    "Python.arrayDS.executor": "Run",
+    "Python.binarytree practice.executor": "Run",
+    "Python.creating a graph.executor": "Run",
+    "Python.dict_touple practice.executor": "Run",
+    "Python.functionProblems.executor": "Run",
+    "Python.gt-practice.executor": "Run",
+    "Python.gt-task-1.executor": "Run",
+    "Python.gt-task-2.executor": "Run",
+    "Python.hash collusion handle.executor": "Run",
+    "Python.hash practice.executor": "Run",
+    "Python.hash task.executor": "Run",
+    "Python.linkedListPractice.executor": "Run",
+    "Python.multithreading-practice.executor": "Run",
+    "Python.practice class and object.executor": "Run",
+    "Python.practice for.executor": "Run",
+    "Python.practice if problems.executor": "Run",
+    "Python.practiceLIst.executor": "Run",
+    "Python.practiceNumbers.executor": "Run",
+    "Python.practiceStrings.executor": "Run",
+    "Python.practiceVariables.executor": "Run",
+    "Python.read and write again.executor": "Run",
+    "Python.read and write.executor": "Run",
+    "Python.stack-practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\PycharmProjects\python_excercise\read and write" />
@@ -478,7 +479,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731198419464</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="built a graph">
+      <option name="closed" value="true" />
+      <created>1731265213506</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1731265213506</updated>
+    </task>
+    <task id="LOCAL-00046" summary="build paths">
+      <option name="closed" value="true" />
+      <created>1731268677850</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1731268677850</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,8 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="link list impliment practice" />
-    <MESSAGE value="hashmap practice" />
     <MESSAGE value="hash collusion" />
     <MESSAGE value="hash collusion updated" />
     <MESSAGE value="hash task 1 and 2 done" />
@@ -530,6 +545,8 @@
     <MESSAGE value="added: pre order and post order traversal" />
     <MESSAGE value="added: deleting any node in bst" />
     <MESSAGE value="deletion through max value" />
-    <option name="LAST_COMMIT_MESSAGE" value="deletion through max value" />
+    <MESSAGE value="built a graph" />
+    <MESSAGE value="build paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="build paths" />
   </component>
 </project>

@@ -12,7 +12,7 @@ class Graph:
     def get_paths(self,start,end,path=[]):
         path=path+[start]
 
-        if self.start==self.end:
+        if start==end:
             return [path]
         if start not in self.graph_dict:
             return []
@@ -27,6 +27,21 @@ class Graph:
         return paths
 
 
+    def get_shortest_path(self,start,end,path=[]):
+        path=path+[start]
+
+        if start==end:
+            return [path]
+
+        if start not in self.graph_dict:
+            return []
+
+        shortest_path=None
+        for node in self.graph_dict[start]:
+            sp=self.get_shortest_path(node,end,path)
+            if shortest_path is None or len(sp)<len(shortest_path):
+                shortest_path=sp
+        return shortest_path
 
 
 
@@ -43,4 +58,7 @@ if __name__=='__main__':
     ]
 
     routes_graph=Graph(routes)
+    start='mumbai'
+    end='new york'
 
+    print(f'shortest path: between {start} and {end} is ', routes_graph.get_shortest_path(start,end))
