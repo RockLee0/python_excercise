@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="occurence finding" />
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="file created for bubble sort">
+      <change beforePath="$PROJECT_DIR$/data sturcture/sorting/BubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/data sturcture/sorting/BubbleSort.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,14 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720717609750</updated>
-    </task>
-    <task id="LOCAL-00003" summary="strings">
-      <option name="closed" value="true" />
-      <created>1720723369968</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1720723369968</updated>
     </task>
     <task id="LOCAL-00004" summary="strings">
       <option name="closed" value="true" />
@@ -517,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731360020586</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="file created for bubble sort">
+      <option name="closed" value="true" />
+      <created>1731360181908</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1731360181908</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="third problem solved" />
     <MESSAGE value="STACK TASK 1 SOLVED" />
     <MESSAGE value="STACK TASK 2 SOLVED" />
     <MESSAGE value="Queue comprehanded properly" />
@@ -569,6 +570,7 @@
     <MESSAGE value="Searching algorithm" />
     <MESSAGE value="recursive added" />
     <MESSAGE value="occurence finding" />
-    <option name="LAST_COMMIT_MESSAGE" value="occurence finding" />
+    <MESSAGE value="file created for bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="file created for bubble sort" />
   </component>
 </project>
