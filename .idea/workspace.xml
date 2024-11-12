@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="modified for a especial case">
-      <change afterPath="$PROJECT_DIR$/data sturcture/sorting/quickSort.py" afterDir="false" />
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="quick sort impliment">
       <change afterPath="$PROJECT_DIR$/data sturcture/sorting/quickSortPractice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -73,6 +72,7 @@
     "Python.practiceStrings.executor": "Run",
     "Python.practiceVariables.executor": "Run",
     "Python.quickSort.executor": "Run",
+    "Python.quickSortPractice.executor": "Run",
     "Python.read and write again.executor": "Run",
     "Python.read and write.executor": "Run",
     "Python.stack-practice.executor": "Run",
@@ -130,14 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720717609750</updated>
-    </task>
-    <task id="LOCAL-00006" summary="practiced the lists">
-      <option name="closed" value="true" />
-      <created>1720773759080</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1720773759080</updated>
     </task>
     <task id="LOCAL-00007" summary="if practiced">
       <option name="closed" value="true" />
@@ -523,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731365280481</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="quick sort impliment">
+      <option name="closed" value="true" />
+      <created>1731445007611</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1731445007611</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -550,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Queue comprehanded properly" />
     <MESSAGE value="clear about multithreading" />
     <MESSAGE value="pace order problem solved" />
     <MESSAGE value="binary problem" />
@@ -575,6 +574,7 @@
     <MESSAGE value="file created for bubble sort" />
     <MESSAGE value="bubble sort implimented" />
     <MESSAGE value="modified for a especial case" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified for a especial case" />
+    <MESSAGE value="quick sort impliment" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick sort impliment" />
   </component>
 </project>
