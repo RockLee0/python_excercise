@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="lumoto implimented">
+      <change afterPath="$PROJECT_DIR$/data sturcture/sorting/insertionSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,7 @@
     "Python.hash collusion handle.executor": "Run",
     "Python.hash practice.executor": "Run",
     "Python.hash task.executor": "Run",
+    "Python.insertionSort.executor": "Run",
     "Python.linkedListPractice.executor": "Run",
     "Python.multithreading-practice.executor": "Run",
     "Python.practice class and object.executor": "Run",
@@ -129,14 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720717609750</updated>
-    </task>
-    <task id="LOCAL-00008" summary="for done">
-      <option name="closed" value="true" />
-      <created>1720809221828</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1720809221828</updated>
     </task>
     <task id="LOCAL-00009" summary="for done">
       <option name="closed" value="true" />
@@ -522,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731446468229</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="lumoto implimented">
+      <option name="closed" value="true" />
+      <created>1731448729314</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1731448729314</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
