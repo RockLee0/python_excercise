@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="insertion implimented">
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="another example implimented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class and object/Inheritence/Inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/class and object/Inheritence/Inheritence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class and object/Inheritence/Inheritence_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/class and object/Inheritence/Inheritence_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,8 @@
     &quot;Python.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.BinarySearch.executor&quot;: &quot;Run&quot;,
     &quot;Python.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritence_practice.executor&quot;: &quot;Run&quot;,
     &quot;Python.Queue-practice.executor&quot;: &quot;Run&quot;,
     &quot;Python.arrayDS.executor&quot;: &quot;Run&quot;,
     &quot;Python.binarytree practice.executor&quot;: &quot;Run&quot;,
@@ -82,6 +86,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\python_excercise\class and object\Inheritence" />
       <recent name="C:\Users\LENOVO\PycharmProjects\python_excercise\read and write" />
       <recent name="C:\Users\LENOVO\PycharmProjects\python_excercise\class and object" />
     </key>
@@ -130,30 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720717609750</updated>
-    </task>
-    <task id="LOCAL-00010" summary="for done">
-      <option name="closed" value="true" />
-      <created>1724631619442</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1724631619442</updated>
-    </task>
-    <task id="LOCAL-00011" summary="for done">
-      <option name="closed" value="true" />
-      <created>1724707091382</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1724707091382</updated>
-    </task>
-    <task id="LOCAL-00012" summary="link list impliment practice">
-      <option name="closed" value="true" />
-      <created>1724861559349</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1724861559349</updated>
     </task>
     <task id="LOCAL-00013" summary="hashmap practice">
       <option name="closed" value="true" />
@@ -523,7 +504,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731450504352</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="insertion implimented">
+      <option name="closed" value="true" />
+      <created>1731489521834</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1731489521834</updated>
+    </task>
+    <task id="LOCAL-00060" summary="inheritence implimented by example">
+      <option name="closed" value="true" />
+      <created>1731490934169</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1731490934169</updated>
+    </task>
+    <task id="LOCAL-00061" summary="another example implimented">
+      <option name="closed" value="true" />
+      <created>1731492147232</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1731492147232</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -550,8 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="binary problem" />
-    <MESSAGE value="tree files" />
     <MESSAGE value="gt-practice" />
     <MESSAGE value="company organization done" />
     <MESSAGE value="coutrywork" />
@@ -575,6 +578,8 @@
     <MESSAGE value="quick sort impliment" />
     <MESSAGE value="lumoto implimented" />
     <MESSAGE value="insertion implimented" />
-    <option name="LAST_COMMIT_MESSAGE" value="insertion implimented" />
+    <MESSAGE value="inheritence implimented by example" />
+    <MESSAGE value="another example implimented" />
+    <option name="LAST_COMMIT_MESSAGE" value="another example implimented" />
   </component>
 </project>

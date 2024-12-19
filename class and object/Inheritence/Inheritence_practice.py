@@ -12,7 +12,7 @@ class human(animal,dog):
         self.dick=2
 
 
-    def purpose(self):
+    def purposee(self):
         print(f'we only do masterbedroom with {self.hand} hand and {self.dick} lolopopstar')
         super().general_purpose()
 
@@ -22,4 +22,4 @@ print(tom.purpose())
 
 
 murzan=human()
-print(murzan.purpose())
+print(murzan.purposee())

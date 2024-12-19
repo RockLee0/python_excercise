@@ -4,7 +4,7 @@ class banor:
         self.mentality='They are rude'
         print(f'they have this mentality which is {self.mentality}')
 
-class human(banor):
+class human(banor):  #use other class characteristics for using (that class)
     def __init__(self):
         self.legs=5
         self.dicksize=1
