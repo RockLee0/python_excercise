@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="exercise of raise exception">
-      <change afterPath="$PROJECT_DIR$/class and object/iterators/practice_iterators.py" afterDir="false" />
+    <list default="true" id="6f0d9f8a-c8ca-4f68-b597-3d6a9c0e01c3" name="Changes" comment="iterators">
+      <change afterPath="$PROJECT_DIR$/class and object/iterators/ex1_iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.binarytree practice.executor": "Run",
     "Python.creating a graph.executor": "Run",
     "Python.dict_touple practice.executor": "Run",
+    "Python.ex1_iterator.executor": "Run",
     "Python.exerciseOFexception.executor": "Run",
     "Python.functionProblems.executor": "Run",
     "Python.gt-practice.executor": "Run",
@@ -136,14 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720717609750</updated>
-    </task>
-    <task id="LOCAL-00017" summary="hash task 1 and 2 done">
-      <option name="closed" value="true" />
-      <created>1725055702724</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1725055702724</updated>
     </task>
     <task id="LOCAL-00018" summary="loop updated">
       <option name="closed" value="true" />
@@ -529,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734706619199</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="iterators">
+      <option name="closed" value="true" />
+      <created>1734713245014</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1734713245014</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,7 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="binary tree" />
     <MESSAGE value="in order traversal implimented" />
     <MESSAGE value="bug fixed for bst" />
     <MESSAGE value="search function added to bst" />
@@ -581,6 +581,7 @@
     <MESSAGE value="multiple inheritence" />
     <MESSAGE value="raise_exeption fundamentals" />
     <MESSAGE value="exercise of raise exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise of raise exception" />
+    <MESSAGE value="iterators" />
+    <option name="LAST_COMMIT_MESSAGE" value="iterators" />
   </component>
 </project>
